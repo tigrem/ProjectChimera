@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "project_chimera"
+version = "0.1.0"
+description = "Project Chimera: Autonomous Influencer Network"
+authors = ["tigremsahilu@gmail.com"]
+
+[tool.poetry.dependencies]
