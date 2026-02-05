@@ -1,0 +1,23 @@
+# Project Chimera – AI Rules
+
+## Project Context
+This is Project Chimera, an autonomous influencer system built using
+Specification-Driven Development.
+
+## Prime Directive
+NEVER generate or modify code without first checking the specs/ directory.
+
+## Planning Requirement
+Before writing code:
+- Explain the plan
+- Reference relevant specs
+- Identify risks
+
+## Traceability
+All outputs must map to:
+- a functional requirement
+- a technical contract
+
+## Safety
+If specs are unclear or missing:
+STOP and ask for clarification.
