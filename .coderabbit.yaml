@@ -1,0 +1,12 @@
+reviews:
+  auto_review: true
+
+checks:
+  - spec_alignment
+  - security_vulnerabilities
+  - unsafe_patterns
+
+rules:
+  - "All code must align with specs/"
+  - "No hardcoded secrets"
+  - "Explain deviations from specs"
